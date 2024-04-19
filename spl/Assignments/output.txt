@@ -1,0 +1,5 @@
+addition of Two Numbers: 50
+subtraction of Two Numbers: 10
+multiplication of Two Numbers: 600
+division of Two Numbers: 1
+odulas operation of Two Numbers: 10
