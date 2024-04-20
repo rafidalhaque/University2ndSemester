@@ -1,5 +1,5 @@
-addition of Two Numbers: 50
-subtraction of Two Numbers: 10
-multiplication of Two Numbers: 600
-division of Two Numbers: 1
-odulas operation of Two Numbers: 10
+Addition of 20 and 30: 50
+Subtraction of 30 and 20: 10
+Multiplication of 20 and 30: 600
+Division of 30 and 20: 1
+Modulas operation of 30 and 20: 10

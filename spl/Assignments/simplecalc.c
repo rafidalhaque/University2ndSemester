@@ -10,11 +10,11 @@ Assignment: Write A Program in C to calculate result of addition,
 int main(){
     int a= 20,b= 30;
 
-    printf("addition of Two Numbers: %d\n", a+b);
-    printf("subtraction of Two Numbers: %d\n", b-a);
-    printf("multiplication of Two Numbers: %d\n", a*b);
-    printf("division of Two Numbers: %d\n", b/a);
-    printf("odulas operation of Two Numbers: %d\n", b%a);
+    printf("Addition of %d and %d: %d\n", a , b, a+b);
+    printf("Subtraction of %d and %d: %d\n", b, a, b-a);
+    printf("Multiplication of %d and %d: %d\n", a, b, a*b);
+    printf("Division of %d and %d: %d\n", b, a, b/a);
+    printf("Modulas operation of %d and %d: %d\n", b, a, b%a);
 
     return 0;  
 }
